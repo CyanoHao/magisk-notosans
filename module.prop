@@ -1,0 +1,7 @@
+id=notosans
+name=Noto Sans
+version=2.000-1
+versionCode=1
+author=Cyano Hao
+description=Systemlessly apply Noto Sans (for Android N–P).
+minMagisk=1500
